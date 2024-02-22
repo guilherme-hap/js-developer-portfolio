@@ -40,9 +40,9 @@
   ],
   "portfolio": [
     {
-      "name": "Sem projetos",
-      "url": "",
-      "github": false
+      "name": "Angular blog",
+      "url": "https://github.com/guilherme-hap/angular-blog",
+      "github": true
     }
   ],
   "professionalExperience": [
