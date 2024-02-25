@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "Angular",
-        "logo": "guilherme-hap/js-developer-portfolio/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
         "name": "JavaScript",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Python",
-        "logo": "guilherme-hap/js-developer-portfolio/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
       }
     ],
     "softSkills": [
