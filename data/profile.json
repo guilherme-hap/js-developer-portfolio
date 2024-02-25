@@ -8,8 +8,8 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+        "name": "Angular",
+        "logo": "guilherme-hap/js-developer-portfolio/data/imgs/angular.png"
       },
       {
         "name": "JavaScript",
@@ -20,8 +20,8 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "HTML",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"
+        "name": "Python",
+        "logo": "guilherme-hap/js-developer-portfolio/data/imgs/python.png"
       }
     ],
     "softSkills": [
@@ -40,7 +40,12 @@
   ],
   "portfolio": [
     {
-      "name": "Angular blog",
+      "name": "Clone do Buzzfeed com Angular",
+      "url": "https://github.com/guilherme-hap/angular-buzzfeed-clone",
+      "github": true
+    },
+    {
+      "name": "Blog com Angular",
       "url": "https://github.com/guilherme-hap/angular-blog",
       "github": true
     }
